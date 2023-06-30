@@ -4,7 +4,7 @@ import json
 
 uri = "mongodb+srv://<User_Name>:<Password>@cluster0.yc3hy9y.mongodb.net/?retryWrites=true&w=majority"
 
-DataBase_Name='Shiv_expert'
+DataBase_Name='Name'
 Collection_name='Wafer_faults'
 
 # Create a new client and connect to the server
